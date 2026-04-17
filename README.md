@@ -7,3 +7,6 @@
 
 ## Notes
 Starting my backend development journey.
+
+
+My first update on GitHub!
